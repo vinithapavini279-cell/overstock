@@ -1,0 +1,2 @@
+Scenario:
+1. place an order in amazon website
