@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Scenario:
 1. open flipkart website
+=======
+Scenario 1:
+I didn't complete
+>>>>>>> fresh
