@@ -1,2 +1,6 @@
 Scenario:
+<<<<<<< HEAD
 hello vini wod
+=======
+hello moni wod
+>>>>>>> pavi
