@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-fghf
-hfhgbjk
-=======
-fghftghj 
-conflict
->>>>>>> conflict
